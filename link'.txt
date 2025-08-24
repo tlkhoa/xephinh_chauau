@@ -14,3 +14,6 @@ git push -u origin main
 
 link dia diem chau au
 https://www.bestprice.vn/blog/diem-den-8/chau-au-349/top-50-dia-diem-du-lich-chau-au-ai-cung-muon-dat-chan-toi-mot-lan-trong-doi_26-14370.html?srsltid=AfmBOoqAkVB9d8RrpCttEXZyw--NVHpXf1TK07kRp1Goo0O8q0sOyt1l
+
+
+https://app.netlify.com/teams/tlkhoa81/projects
