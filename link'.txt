@@ -20,3 +20,5 @@ https://app.netlify.com/teams/tlkhoa81/projects
 
 https://imageresizer.com/resize/download/68ac75894151e78922e0ab67
 https://picresize.com/en/results
+
+random_set_seed(get_timer());
