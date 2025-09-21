@@ -22,3 +22,6 @@ https://imageresizer.com/resize/download/68ac75894151e78922e0ab67
 https://picresize.com/en/results
 
 random_set_seed(get_timer());
+
+
+cmd /c getfiles.bat
